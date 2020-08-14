@@ -145,61 +145,6 @@ flutter:
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
-  assets:
-    - assets/locale/en_us.json
-    - assets/locale/zh_cn.json
-    - assets/images/logo-36.png
-    - assets/images/logo-48.png
-    - assets/images/logo-80.png
-    - assets/images/logo-512.png
-    - assets/images/logo.png
-    - assets/images/default.png
-    - assets/images/empty.png
-    - assets/images/nophoto.jpg
-    - assets/images/share1.jpg
-    - assets/images/share2.jpg
-    - assets/images/pengyouquan.png
-    - assets/images/icon64_wx_logo.png
-    - assets/images/qqzone.png
-    - assets/images/qq.png
-    - assets/images/weibo.png
-    - assets/images/album.png
-    - assets/images/squarenophoto.jpg
-    - assets/images/top.jpg
-    - assets/images/middle.jpg
-    - assets/images/bottom.jpg
-    - assets/font/iconfont/cheese.svg
-    - assets/font/iconfont/中国.svg
-    - assets/font/iconfont/美国.svg
-    - assets/images/level1.png
-    - assets/images/level2.png
-    - assets/images/level3.png
-    - assets/images/level4.png
-    - assets/images/level5.png
-    - assets/images/level6.png
-    - assets/images/level7.png
-    - assets/images/level8.png
-    - assets/images/level9.png
-    - assets/images/level0.png
-    - assets/images/level0_1.png
-    - assets/images/level1_1.png
-    - assets/images/level2_1.png
-    - assets/images/level3_1.png
-    - assets/images/level4_1.png
-    - assets/images/level5_1.png
-    - assets/images/level6_1.png
-    - assets/images/level7_1.png
-    - assets/images/level8_1.png
-    - assets/images/level9_1.png
-    - assets/images/gdt_splash_logo.png
-    - assets/db/jiyiv2.db
-    - assets/db/jiyi-desktop.db
-    - assets/sound/correct.mp3
-    - assets/sound/error.mp3
-    - assets/data/tips.txt
-    - assets/images/kuang.png
-    - assets/images/vip.svg
-    - assets/images/vip_grey.svg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
@@ -225,11 +170,3 @@ flutter:
   #         weight: 700
   #
   # For details regarding fonts from package dependencies,
-  # see https://flutter.io/custom-fonts/#from-packages
-  fonts:
-    - family: beijing
-      fonts:
-        - asset: assets/font/pang.ttf
-    - family: jIconFont
-      fonts:
-        - asset: assets/font/iconfont/iconfont.ttf
